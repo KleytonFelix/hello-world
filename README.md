@@ -1,8 +1,6 @@
-# hello-world
-Loading...
+# Hey
+
 Hey, folks.
 
-Felix here. I'm new in the programming universe and trying to get this serious, 'cause i think i found my purpouse. And if i'm wrong... well, i tried.
-And not less important, 
-Fora, covid!
-Sim, sou br.
+Felix here. 
+This is it.
